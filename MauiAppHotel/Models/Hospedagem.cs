@@ -10,7 +10,7 @@ namespace MauiAppHotel.Models
     {
         public Quarto QuartoSelecionado { get; set; }
 
-        public double QntAdulto { get; set; }
+        public double QntAdultos { get; set; }
 
         public double QntCriancas { get; set; }
         public DateTime DataCheckIn { get; set; }
